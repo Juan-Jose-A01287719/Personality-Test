@@ -20,3 +20,6 @@ Scoring system to evaluate and categorize personality types.
 
 **Reflection on Early Impact or Benefit**:
 This project helps people learn more about themselves by thinking about their likes, dislikes, and behaviors. It also helped me get better at programming, especially with stuff like handling files, getting user input, and using control structures. In the future, I’d like to make the Personality Test cooler by adding a simple graphic interface or giving personalized recommendations based on the user’s answers.
+
+
+**Video Link:** https://drive.google.com/file/d/1JXPYzKqpaRDOKHg-Zc6-04uS89JFxAy8/view?usp=sharing
